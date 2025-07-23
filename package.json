@@ -1,0 +1,22 @@
+{
+  "name": "jquery-error-alert",
+  "version": "1.0.0",
+  "description": "A modular jQuery error alert utility for AJAX requests.",
+  "main": "src/erroralert.js",
+  "scripts": {
+    "test": "echo 'No tests yet'",
+    "lint": "eslint src/",
+    "format": "prettier --write src/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hkevin01/JQuery-Error-Alert.git"
+  },
+  "keywords": ["jquery", "error", "alert", "ajax", "utility"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.0.0",
+    "prettier": "^3.0.0"
+  }
+}

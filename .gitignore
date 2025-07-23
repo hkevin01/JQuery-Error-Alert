@@ -1,0 +1,42 @@
+# .gitignore
+
+# Node
+node_modules/
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# VSCode
+.vscode/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Misc
+.env
+
+# Build
+/dist/
+/build/
+
+# Assets
+assets/
+
+# Data
+*.sqlite3
+data/
+
+# Tests
+/tests/
+
+# Copilot
+.copilot/
+
+# Github
+.github/

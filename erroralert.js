@@ -1,4 +1,3 @@
-
 /**
  * Displays error alert
  * @param jqXHR
@@ -23,3 +22,5 @@ function errorAlert(jqXHR,exception,errorThrown){
          alert('Uncaught Error.\n' + jqXHR.responseText);
      }
 }
+
+// Moved to src/erroralert.js
